@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "My Contact Information\nYou can reach me via email at luchengj@bu.edu. You can also call me at 6173598745. Feel free to get in touch!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "My Projects\n\nProject A – Worked as a volunteer in a hospital, collecting nucleic acids and counting patient information.\nProject B – Worked as an investment intern at CITIC Securities, forecasting profits for CITIC Securities’ financial products.\nProject C — Worked as a data analysis intern, summarizing and tabulating daily stock market information\n\nThis is a photo taken during my internship at CITIC Securities when I was traveling with the team."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "My Introduction\nHello! My name is Chengjie Lu. I am currently a graduate student pursuing a master’s degree in Business Analytics.\nI have a passion for data analysis and machine learning. This page contains a brief introduction about me."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "2024, M.S. in Business Analytics, Boston University, Boston\n2020, B.S. in Financial Mathematics, Hong Kong Baptist University, Hong Kong\n\n\n\n\nInvestment Intern, CITIC Securities (Jun 2022 – Aug 2022) - Assisted in analyzing sales data and creating visual dashboards. - Estimating profits on financial products\n\n\n\n\nProgramming: Python, R, Matlab, SPSS\nData Analysis: Pandas, R tidyverse, Tableau, Power BI\nMachine Learning: scikit-learn, TensorFlow"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "2024, M.S. in Business Analytics, Boston University, Boston\n2020, B.S. in Financial Mathematics, Hong Kong Baptist University, Hong Kong"
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "",
+    "text": "Investment Intern, CITIC Securities (Jun 2022 – Aug 2022) - Assisted in analyzing sales data and creating visual dashboards. - Estimating profits on financial products"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "",
+    "text": "Programming: Python, R, Matlab, SPSS\nData Analysis: Pandas, R tidyverse, Tableau, Power BI\nMachine Learning: scikit-learn, TensorFlow"
+  }
+]

@@ -1,0 +1,9 @@
+---
+title: "About Me"
+---
+
+# My Introduction
+
+Hello! My name is Chengjie Lu. I am currently a graduate student pursuing a master's degree in Business Analytics.
+
+I have a passion for data analysis and machine learning. This page contains a brief introduction about me.

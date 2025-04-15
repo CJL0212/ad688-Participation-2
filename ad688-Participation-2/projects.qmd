@@ -1,0 +1,13 @@
+---
+title: "Projects"
+---
+
+# My Projects
+
+- **Project A** – Worked as a volunteer in a hospital, collecting nucleic acids and counting patient information.
+- **Project B** – Worked as an investment intern at CITIC Securities, forecasting profits for CITIC Securities' financial products.
+- **Project C** — Worked as a data analysis intern, summarizing and tabulating daily stock market information
+
+This is a photo taken during my internship at CITIC Securities when I was traveling with the team.
+![](images/CITIC1.jpg)
+![](images/CITIC2.jpg)
