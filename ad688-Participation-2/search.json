@@ -11,28 +11,28 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "My Projects\n\nProject A – Worked as a volunteer in a hospital, collecting nucleic acids and counting patient information.\nProject B – Worked as an investment intern at CITIC Securities, forecasting profits for CITIC Securities’ financial products.\nProject C — Worked as a data analysis intern, summarizing and tabulating daily stock market information\n\nThis is a photo taken during my internship at CITIC Securities when I was traveling with the team."
+    "text": "My Projects\n\nProject A – Volunteered at a hospital in Hubei Province during the COVID-19 outbreak (July–September 2020). Motivated by a deep personal connection to the epicenter of the pandemic and a desire to contribute, I assisted in recording patient information and conducting nucleic acid testing across various sites, including schools, nursing homes, and correctional facilities. Despite the physical exhaustion, emotional strain, and the fear of infection, I found strength in the gratitude of patients and the respect of the public. This experience profoundly shaped my understanding of social responsibility, perseverance, and the impact one can make in times of crisis. It remains one of my proudest contributions.\n\nThis is a photo I took when I was volunteering\n\n\nProject B – Worked as an investment and strategy intern at CITIC Securities, where I was responsible for generating sales reports, conducting sales performance analysis, and applying statistical models to support strategic business decisions. In addition to analytical work, I was expected to achieve direct sales targets, which required real-time communication with clients. Initially, my direct approach and rehearsed sales pitch were ineffective and met with indifference. After seeking guidance from experienced colleagues, I realized the importance of client-specific background research and adapting my communication to meet their actual needs. By combining data-driven insights with a more personable and flexible communication style, I ultimately secured over 2 million RMB in revenue for the company and received high praise from my supervisors. This experience taught me the value of applying knowledge adaptively and tailoring solutions to real-world challenges.\n\nThis is a photo taken during my internship at CITIC Securities when I was traveling with the team.\n \n\nProject C — Worked as a data analysis intern, focusing on secondary market analysis, SME advisory services, and economic forecasting based on financial data trends. My responsibilities included executing daily statistical and coding tasks, modifying and maintaining financial models, and providing tailored security analysis to individual investors. Although I had limited programming experience from academic courses, I proactively self-studied relevant technical skills before starting the role. However, I soon discovered the need to master Tongdaxin formula-based stock screening, a specialized tool with scarce documentation. With guidance and encouragement from my mentor, I overcame this challenge and successfully implemented custom formulas to support client decision-making. This experience taught me that learning never stops, and I have since embraced a mindset of humility, persistence, and proactive problem-solving when facing future academic and professional challenges.\nProject D – Co-authored and published a literary analysis article titled “The Decline of British Imperialism through the Lens of Colonial Imagery in Fiction” in Novel Monthly (Issue No. 563, Feb. 2021, pp. 69 & 73), a provincial-level humanities journal in Jilin, China. The paper explores the collapse of imperial ideology through the works of George Orwell by examining the changing attitudes of colonized populations toward British rule. As a freshman with limited training in academic writing, I independently learned APA formatting and academic structures, driven by my passion for writing and literary analysis. The successful publication marked a formative achievement in my intellectual journey and strengthened my commitment to writing across both academic and creative domains. This experience continues to inspire me to approach all future learning with curiosity, diligence, and confidence.\n\nView publication on Baidu Scholar\n\nProject E – Completed a final year thesis titled “Clear Processing of Motion Blurred Images Based on Inverse Filtering and Wiener Filtering Techniques”. This project focused on restoring degraded images affected by motion blur, a common issue in both daily photography and scientific imaging. The study analyzed and implemented two classical image restoration algorithms: inverse filtering and Wiener filtering. Through detailed mathematical modeling and MATLAB-based simulation, the project evaluated the strengths and limitations of each technique in the presence of noise. It also addressed the shortcomings of inverse filtering—such as its sensitivity to noise and reliance on precise degradation models—while highlighting the practical robustness of Wiener filtering under certain statistical assumptions. The project concludes with a forward-looking discussion on the integration of deep learning, adaptive filtering, and data-driven methods for enhanced image restoration in real-world applications.\n\nDownload full thesis (PDF)"
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "2024, M.S. in Business Analytics, Boston University, Boston\n2020, B.S. in Financial Mathematics, Hong Kong Baptist University, Hong Kong\n\n\n\n\nInvestment Intern, CITIC Securities (Jun 2022 – Aug 2022) - Assisted in analyzing sales data and creating visual dashboards. - Estimating profits on financial products\n\n\n\n\nProgramming: Python, R, Matlab, SPSS\nData Analysis: Pandas, R tidyverse, Tableau, Power BI\nMachine Learning: scikit-learn, TensorFlow"
+    "text": "2024, M.S. in Business Analytics, Boston University, Boston\nI achieved a gpa of 3.58 for two consecutive semesters\n\n\n\n\nGPA Overview\n\n\n\n2020, B.S. in Financial Mathematics, Hong Kong Baptist University, Hong Kong\n\n\n\n\nInvestment Intern, CITIC Securities (Jun 2022 – Aug 2022) - Conducted sales forecasting, financial modeling, and customer communication. - Proposed strategic suggestions through data analysis and quantitative modeling. - Achieved over 2 million RMB in revenue contribution through effective client engagement.\nMathematical Modeling Competitor, COMAP MCM/ICM & China Undergraduate Contest (2022–2023) - Participated in the Mathematical Contest in Modeling (COMAP) and won the S Award. - Took lead roles in problem solving, algorithm design, and LaTeX-based paper writing. - Coordinated with teammates under pressure and ensured timely delivery for both competitions. - Demonstrated resilience and adaptability during high-intensity collaborative research.\nStudent Leader, Student Residence Committee (2021–2022) - Organized dormitory-wide cultural and feedback events to improve student life. - Acted as a liaison between residents and university administration. - Recognized by faculty for dedication, problem-solving, and communication skills.\nFounder & President, Chess Club, Hong Kong Baptist University (2020-2024) - Established and expanded the club from 40 to 100+ members. - Designed and hosted weekly chess events, workshops, film screenings, and exhibitions. - Responsible for venue applications, funding proposals, and post-event reporting.\nCampus Engagement Award, Bronze in Leadership Point Scheme - Actively participated in over 10 student-led initiatives and earned leadership certification. - Demonstrated excellence in balancing academic workload with community leadership.\n\n\n\n\nProgramming: Python, R, Matlab, SPSS\nData Analysis: Pandas, R tidyverse, Tableau, Power BI\nMachine Learning: scikit-learn, TensorFlow"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "CV",
     "section": "",
-    "text": "2024, M.S. in Business Analytics, Boston University, Boston\n2020, B.S. in Financial Mathematics, Hong Kong Baptist University, Hong Kong"
+    "text": "2024, M.S. in Business Analytics, Boston University, Boston\nI achieved a gpa of 3.58 for two consecutive semesters\n\n\n\n\nGPA Overview\n\n\n\n2020, B.S. in Financial Mathematics, Hong Kong Baptist University, Hong Kong"
   },
   {
     "objectID": "cv.html#experience",
     "href": "cv.html#experience",
     "title": "CV",
     "section": "",
-    "text": "Investment Intern, CITIC Securities (Jun 2022 – Aug 2022) - Assisted in analyzing sales data and creating visual dashboards. - Estimating profits on financial products"
+    "text": "Investment Intern, CITIC Securities (Jun 2022 – Aug 2022) - Conducted sales forecasting, financial modeling, and customer communication. - Proposed strategic suggestions through data analysis and quantitative modeling. - Achieved over 2 million RMB in revenue contribution through effective client engagement.\nMathematical Modeling Competitor, COMAP MCM/ICM & China Undergraduate Contest (2022–2023) - Participated in the Mathematical Contest in Modeling (COMAP) and won the S Award. - Took lead roles in problem solving, algorithm design, and LaTeX-based paper writing. - Coordinated with teammates under pressure and ensured timely delivery for both competitions. - Demonstrated resilience and adaptability during high-intensity collaborative research.\nStudent Leader, Student Residence Committee (2021–2022) - Organized dormitory-wide cultural and feedback events to improve student life. - Acted as a liaison between residents and university administration. - Recognized by faculty for dedication, problem-solving, and communication skills.\nFounder & President, Chess Club, Hong Kong Baptist University (2020-2024) - Established and expanded the club from 40 to 100+ members. - Designed and hosted weekly chess events, workshops, film screenings, and exhibitions. - Responsible for venue applications, funding proposals, and post-event reporting.\nCampus Engagement Award, Bronze in Leadership Point Scheme - Actively participated in over 10 student-led initiatives and earned leadership certification. - Demonstrated excellence in balancing academic workload with community leadership."
   },
   {
     "objectID": "cv.html#skills",
@@ -44,6 +44,55 @@
   {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "My Introduction\nHello! My name is Chengjie Lu. I am currently a graduate student at Boston University pursuing a master’s degree in Business Analytics. I completed my undergraduate studies in Financial Mathematics at Hong Kong Baptist University. From a young age, I developed a strong passion for mathematics. One of my earliest memories involves my father teaching me the game “24 Points,” which involves creatively combining four numbers using arithmetic operations to reach the value 24. I still enjoy playing this game in my free time, as it has sharpened my number sense and deepened my appreciation for mathematical reasoning.\nIn middle school, I competed twice in the National Mathematical Olympiad, earning two provincial gold medals and a national bronze. During high school, I scored 147 out of 150 on the mathematics section of China’s Gaokao college entrance examination. At university, I systematically studied financial mathematics while also exploring the field of computer science. I participated in both the Mathematical Contest in Modeling (MCM/ICM) and the China Undergraduate Mathematical Contest in Modeling (CUMCM), continuously strengthening my computational and analytical skills.\nSince joining Boston University, I have taken part in an internal hackathon during my first semester and frequently explore abstract mathematical problems on Project Euler to train my logical thinking. I take pride in being a diligent and resilient learner, with a strong sense of dedication. For example, during a volunteer data entry job involving repetitive and tedious tasks, I maintained a positive attitude, consistently exceeded performance targets, and remained courteous in professional interactions.\nIn addition, I am innovative and eager to apply knowledge to real-world contexts. After completing a C++ course during my sophomore year, I created a simple random name selector program for my cousin, a high school teacher, to use in her classroom. This small project gave me a sense of fulfillment and the joy of using what I’ve learned. Later, in a nature observation course, I developed a basic algorithm to identify the peak activity periods of bird species, improving our group’s observation efficiency.\nFinally, I am intellectually curious and often go beyond the standard requirements. During an internship at a securities firm, I was tasked with analyzing a financial product. While other teams focused primarily on public financial statements, I investigated investment objectives, strategies, and future outlooks, applying Monte Carlo simulations for data-driven analysis. This approach earned praise from my mentors and solidified my commitment to combining academic depth with practical innovation."
+  },
+  {
+    "objectID": "final_submission/source/contact.html",
+    "href": "final_submission/source/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "My Contact Information\nYou can reach me via email at luchengj@bu.edu. You can also call me at 6173598745. Feel free to get in touch!"
+  },
+  {
+    "objectID": "final_submission/source/projects.html",
+    "href": "final_submission/source/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "My Projects\n\nProject A – Worked as a volunteer in a hospital, collecting nucleic acids and counting patient information.\nProject B – Worked as an investment intern at CITIC Securities, forecasting profits for CITIC Securities’ financial products.\nProject C — Worked as a data analysis intern, summarizing and tabulating daily stock market information\n\nThis is a photo taken during my internship at CITIC Securities when I was traveling with the team."
+  },
+  {
+    "objectID": "final_submission/source/cv.html",
+    "href": "final_submission/source/cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "2024, M.S. in Business Analytics, Boston University, Boston\n2020, B.S. in Financial Mathematics, Hong Kong Baptist University, Hong Kong\n\n\n\n\nInvestment Intern, CITIC Securities (Jun 2022 – Aug 2022) - Assisted in analyzing sales data and creating visual dashboards. - Estimating profits on financial products\n\n\n\n\nProgramming: Python, R, Matlab, SPSS\nData Analysis: Pandas, R tidyverse, Tableau, Power BI\nMachine Learning: scikit-learn, TensorFlow"
+  },
+  {
+    "objectID": "final_submission/source/cv.html#education",
+    "href": "final_submission/source/cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "2024, M.S. in Business Analytics, Boston University, Boston\n2020, B.S. in Financial Mathematics, Hong Kong Baptist University, Hong Kong"
+  },
+  {
+    "objectID": "final_submission/source/cv.html#experience",
+    "href": "final_submission/source/cv.html#experience",
+    "title": "CV",
+    "section": "",
+    "text": "Investment Intern, CITIC Securities (Jun 2022 – Aug 2022) - Assisted in analyzing sales data and creating visual dashboards. - Estimating profits on financial products"
+  },
+  {
+    "objectID": "final_submission/source/cv.html#skills",
+    "href": "final_submission/source/cv.html#skills",
+    "title": "CV",
+    "section": "",
+    "text": "Programming: Python, R, Matlab, SPSS\nData Analysis: Pandas, R tidyverse, Tableau, Power BI\nMachine Learning: scikit-learn, TensorFlow"
+  },
+  {
+    "objectID": "final_submission/source/index.html",
+    "href": "final_submission/source/index.html",
     "title": "About Me",
     "section": "",
     "text": "My Introduction\nHello! My name is Chengjie Lu. I am currently a graduate student pursuing a master’s degree in Business Analytics.\nI have a passion for data analysis and machine learning. This page contains a brief introduction about me."

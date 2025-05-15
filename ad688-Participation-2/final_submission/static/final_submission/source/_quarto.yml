@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Chengjie Lu's Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: flatly
+    css: styles.css

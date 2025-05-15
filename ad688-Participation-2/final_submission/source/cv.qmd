@@ -1,0 +1,21 @@
+---
+title: "CV"
+---
+
+# Curriculum Vitae
+
+## [Click here to download my resume](files/cv.pdf){download="cv.pdf"}
+
+## Education  
+- *2024*, M.S. in Business Analytics, **Boston University**, Boston
+- *2020*, B.S. in Financial Mathematics, **Hong Kong Baptist University**, Hong Kong
+
+## Experience
+**Investment Intern**, CITIC Securities (Jun 2022 – Aug 2022)
+- Assisted in analyzing sales data and creating visual dashboards.
+- Estimating profits on financial products
+
+## Skills
+- Programming: Python, R, Matlab, SPSS
+- Data Analysis: Pandas, R tidyverse, Tableau, Power BI
+- Machine Learning: scikit-learn, TensorFlow

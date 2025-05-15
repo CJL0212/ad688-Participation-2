@@ -8,12 +8,39 @@ title: "CV"
 
 ## Education  
 - *2024*, M.S. in Business Analytics, **Boston University**, Boston
+
+   I achieved a gpa of 3.58 for two consecutive semesters
+
+![GPA Overview](images/gpa.png)
+
 - *2020*, B.S. in Financial Mathematics, **Hong Kong Baptist University**, Hong Kong
 
 ## Experience
+
 **Investment Intern**, CITIC Securities (Jun 2022 – Aug 2022)
-- Assisted in analyzing sales data and creating visual dashboards.
-- Estimating profits on financial products
+- Conducted sales forecasting, financial modeling, and customer communication.
+- Proposed strategic suggestions through data analysis and quantitative modeling.
+- Achieved over 2 million RMB in revenue contribution through effective client engagement.
+
+**Mathematical Modeling Competitor**, COMAP MCM/ICM & China Undergraduate Contest (2022–2023)
+- Participated in the Mathematical Contest in Modeling (COMAP) and won the S Award.
+- Took lead roles in problem solving, algorithm design, and LaTeX-based paper writing.
+- Coordinated with teammates under pressure and ensured timely delivery for both competitions.
+- Demonstrated resilience and adaptability during high-intensity collaborative research.
+
+**Student Leader**, Student Residence Committee (2021–2022)
+- Organized dormitory-wide cultural and feedback events to improve student life.
+- Acted as a liaison between residents and university administration.
+- Recognized by faculty for dedication, problem-solving, and communication skills.
+
+**Founder & President**, Chess Club, Hong Kong Baptist University (2020-2024)
+- Established and expanded the club from 40 to 100+ members.
+- Designed and hosted weekly chess events, workshops, film screenings, and exhibitions.
+- Responsible for venue applications, funding proposals, and post-event reporting.
+
+**Campus Engagement Award**, Bronze in Leadership Point Scheme
+- Actively participated in over 10 student-led initiatives and earned leadership certification.
+- Demonstrated excellence in balancing academic workload with community leadership.
 
 ## Skills
 - Programming: Python, R, Matlab, SPSS

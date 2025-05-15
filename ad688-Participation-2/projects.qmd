@@ -4,10 +4,25 @@ title: "Projects"
 
 # My Projects
 
-- **Project A** – Worked as a volunteer in a hospital, collecting nucleic acids and counting patient information.
-- **Project B** – Worked as an investment intern at CITIC Securities, forecasting profits for CITIC Securities' financial products.
-- **Project C** — Worked as a data analysis intern, summarizing and tabulating daily stock market information
+- **Project A** – Volunteered at a hospital in Hubei Province during the COVID-19 outbreak (July–September 2020). Motivated by a deep personal connection to the epicenter of the pandemic and a desire to contribute, I assisted in recording patient information and conducting nucleic acid testing across various sites, including schools, nursing homes, and correctional facilities. Despite the physical exhaustion, emotional strain, and the fear of infection, I found strength in the gratitude of patients and the respect of the public. This experience profoundly shaped my understanding of social responsibility, perseverance, and the impact one can make in times of crisis. It remains one of my proudest contributions.
+
+This is a photo I took when I was volunteering
+
+![](images/Volunteer.jpg)
+
+- **Project B** – Worked as an investment and strategy intern at CITIC Securities, where I was responsible for generating sales reports, conducting sales performance analysis, and applying statistical models to support strategic business decisions. In addition to analytical work, I was expected to achieve direct sales targets, which required real-time communication with clients. Initially, my direct approach and rehearsed sales pitch were ineffective and met with indifference. After seeking guidance from experienced colleagues, I realized the importance of client-specific background research and adapting my communication to meet their actual needs. By combining data-driven insights with a more personable and flexible communication style, I ultimately secured over 2 million RMB in revenue for the company and received high praise from my supervisors. This experience taught me the value of applying knowledge adaptively and tailoring solutions to real-world challenges.
 
 This is a photo taken during my internship at CITIC Securities when I was traveling with the team.
+
 ![](images/CITIC1.jpg)
 ![](images/CITIC2.jpg)
+
+- **Project C** — Worked as a data analysis intern, focusing on secondary market analysis, SME advisory services, and economic forecasting based on financial data trends. My responsibilities included executing daily statistical and coding tasks, modifying and maintaining financial models, and providing tailored security analysis to individual investors. Although I had limited programming experience from academic courses, I proactively self-studied relevant technical skills before starting the role. However, I soon discovered the need to master Tongdaxin formula-based stock screening, a specialized tool with scarce documentation. With guidance and encouragement from my mentor, I overcame this challenge and successfully implemented custom formulas to support client decision-making. This experience taught me that learning never stops, and I have since embraced a mindset of humility, persistence, and proactive problem-solving when facing future academic and professional challenges.
+
+- **Project D** – Co-authored and published a literary analysis article titled *“The Decline of British Imperialism through the Lens of Colonial Imagery in Fiction”* in *Novel Monthly* (Issue No. 563, Feb. 2021, pp. 69 & 73), a provincial-level humanities journal in Jilin, China. The paper explores the collapse of imperial ideology through the works of George Orwell by examining the changing attitudes of colonized populations toward British rule. As a freshman with limited training in academic writing, I independently learned APA formatting and academic structures, driven by my passion for writing and literary analysis. The successful publication marked a formative achievement in my intellectual journey and strengthened my commitment to writing across both academic and creative domains. This experience continues to inspire me to approach all future learning with curiosity, diligence, and confidence.
+
+[View publication on Baidu Scholar](https://xueshu.baidu.com/usercenter/paper/show?paperid=1a5j08h0052j06p0n32w0ej0v3495140)
+
+- **Project E** – Completed a final year thesis titled *“Clear Processing of Motion Blurred Images Based on Inverse Filtering and Wiener Filtering Techniques”*. This project focused on restoring degraded images affected by motion blur, a common issue in both daily photography and scientific imaging. The study analyzed and implemented two classical image restoration algorithms: inverse filtering and Wiener filtering. Through detailed mathematical modeling and MATLAB-based simulation, the project evaluated the strengths and limitations of each technique in the presence of noise. It also addressed the shortcomings of inverse filtering—such as its sensitivity to noise and reliance on precise degradation models—while highlighting the practical robustness of Wiener filtering under certain statistical assumptions. The project concludes with a forward-looking discussion on the integration of deep learning, adaptive filtering, and data-driven methods for enhanced image restoration in real-world applications.
+
+[Download full thesis (PDF)](images/FYP1.pdf)
